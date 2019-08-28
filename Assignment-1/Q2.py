@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 from tqdm import tqdm
 
-ArrayPath = "./Data/"
+ArrayPath = "./Weights/"
 
 def generate_data(n_samples=1000, Classes=10, n_features=2):
     X, Y = make_blobs(n_samples=n_samples, centers=Classes, n_features=n_features)

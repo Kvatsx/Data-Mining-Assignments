@@ -1,0 +1,9 @@
+{"items": [32], "support": 0.1720355708808784, "ordered_statistics": [{"items_base": [], "items_add": [32], "confidence": 0.1720355708808784, "lift": 1.0}]}
+{"items": [38], "support": 0.17690161293981535, "ordered_statistics": [{"items_base": [], "items_add": [38], "confidence": 0.17690161293981535, "lift": 1.0}]}
+{"items": [39], "support": 0.5747941289898142, "ordered_statistics": [{"items_base": [], "items_add": [39], "confidence": 0.5747941289898142, "lift": 1.0}]}
+{"items": [41], "support": 0.16951747918604387, "ordered_statistics": [{"items_base": [], "items_add": [41], "confidence": 0.16951747918604387, "lift": 1.0}]}
+{"items": [48], "support": 0.47792699802636057, "ordered_statistics": [{"items_base": [], "items_add": [48], "confidence": 0.47792699802636057, "lift": 1.0}]}
+{"items": [38, 39], "support": 0.1173408044282117, "ordered_statistics": [{"items_base": [38], "items_add": [39], "confidence": 0.663311105411644, "lift": 1.15399770449534}, {"items_base": [39], "items_add": [38], "confidence": 0.20414405525407006, "lift": 1.15399770449534}]}
+{"items": [39, 41], "support": 0.12946620993171662, "ordered_statistics": [{"items_base": [39], "items_add": [41], "confidence": 0.22523926985693143, "lift": 1.3287082307880087}, {"items_base": [41], "items_add": [39], "confidence": 0.7637336901973905, "lift": 1.3287082307880087}]}
+{"items": [39, 48], "support": 0.33055057734624893, "ordered_statistics": [{"items_base": [39], "items_add": [48], "confidence": 0.5750764676862358, "lift": 1.2032726128908013}, {"items_base": [48], "items_add": [39], "confidence": 0.6916340334638661, "lift": 1.2032726128908016}]}
+{"items": [41, 48], "support": 0.10228896803611533, "ordered_statistics": [{"items_base": [41], "items_add": [48], "confidence": 0.6034125125460019, "lift": 1.2625620963825945}, {"items_base": [48], "items_add": [41], "confidence": 0.2140263438946244, "lift": 1.2625620963825948}]}
